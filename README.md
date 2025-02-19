@@ -10,13 +10,13 @@ Mobile testing, it seems, is still not given the same level of credibilty as app
 
 # Test Case Design
 
-Preconditons: 
+**Preconditons:**
 
 Each test case will begin at the homepage, https://automationexercise.com/
 
 As the test case begins a random number generator, getRandNumber(), is used to create a random number to used within the test as the number products selected. It is also used to assert the number of items in the cart.
 
-Test Steps:
+**Test Steps:**
 
 The test case goes through the following test steps:
 
@@ -31,7 +31,7 @@ The test case goes through the following test steps:
 
 * Added to signify the end of test (pre step 7)
 
-Expected Results:
+**Expected Results:**
 
 The test will pass if the number that was entered on the product page is the same as the number on the cart page. 
 
