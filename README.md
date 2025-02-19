@@ -37,5 +37,12 @@ The test will pass if the number that was entered on the product page is the sam
 
 The same results can be expected on Chrome, Firefox, Safari, Android (Mobile Chrome), and iPhone 14 (Mobile Safari).
 
+# Execution
+
+Run:
+
+npx playwright test
+
 # Analysis and Test Report
 
+With certain clients in mind, data was extracted from the xml and displayed in a spreadsheet. Refer to results.xlsx.
