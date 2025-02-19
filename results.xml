@@ -1,0 +1,22 @@
+<testsuites id="" name="" tests="5" failures="0" skipped="0" errors="0" time="5.9574300000000004">
+<testsuite name="checkout.spec.ts" timestamp="2025-02-19T08:03:25.447Z" hostname="chromium" tests="1" failures="0" skipped="0" time="3.871" errors="0">
+<testcase name="navigation › Check that correct amount of items were added to cart" classname="checkout.spec.ts" time="3.871">
+</testcase>
+</testsuite>
+<testsuite name="checkout.spec.ts" timestamp="2025-02-19T08:03:25.447Z" hostname="firefox" tests="1" failures="0" skipped="0" time="4.126" errors="0">
+<testcase name="navigation › Check that correct amount of items were added to cart" classname="checkout.spec.ts" time="4.126">
+</testcase>
+</testsuite>
+<testsuite name="checkout.spec.ts" timestamp="2025-02-19T08:03:25.447Z" hostname="webkit" tests="1" failures="0" skipped="0" time="3.806" errors="0">
+<testcase name="navigation › Check that correct amount of items were added to cart" classname="checkout.spec.ts" time="3.806">
+</testcase>
+</testsuite>
+<testsuite name="checkout.spec.ts" timestamp="2025-02-19T08:03:25.447Z" hostname="Mobile Chrome" tests="1" failures="0" skipped="0" time="3.01" errors="0">
+<testcase name="navigation › Check that correct amount of items were added to cart" classname="checkout.spec.ts" time="3.01">
+</testcase>
+</testsuite>
+<testsuite name="checkout.spec.ts" timestamp="2025-02-19T08:03:25.447Z" hostname="Mobile Safari" tests="1" failures="0" skipped="0" time="3.544" errors="0">
+<testcase name="navigation › Check that correct amount of items were added to cart" classname="checkout.spec.ts" time="3.544">
+</testcase>
+</testsuite>
+</testsuites>
