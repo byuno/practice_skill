@@ -24,7 +24,7 @@ test.describe('navigation', () => {
     await page.locator('#quantity').press('Enter'); 
     await page.getByRole('button', { name: ' Add to cart' }).click();
     await page.getByRole('link', { name: 'View Cart' }).click();
-    await expect(page.locator('#product-3')).toContainText('21');
+    await expect(page.locator('#product-3')).toContainText(randomNumberString);
     await page.getByText('Proceed To Checkout').click();
 
     //Added below to mark the end of mandatory user flow steps
